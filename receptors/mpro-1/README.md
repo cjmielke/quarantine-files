@@ -1,4 +1,3 @@
-[receptors](../)
 
 ##### Sars-cov2 protease Mpro-1
 This is the main protease of the coronavirus. You can learn more about it at [RCSB](http://pdb101.rcsb.org/motm/242)
