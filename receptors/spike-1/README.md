@@ -6,4 +6,4 @@ Ideally, if we found small molecules that bind to the contact surface between sp
 Receptor is chain E from 2AJF.pdb
 
 
-![alt text](../../img/spike1.jpg "Spike protein")
+![alt text](img/2ajf.png "Spike protein")
