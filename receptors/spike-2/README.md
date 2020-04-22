@@ -7,4 +7,4 @@ the spike protein and focuses more on the groove where the alpha-helix of ACE2 c
 
 Receptor is chain E from 2AJF.pdb
 
-![alt text](gridbox.png "Spike protein")
+![alt text](img/gridbox.png "Spike protein")
